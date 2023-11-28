@@ -147,9 +147,6 @@ def g(a, b, c):
             t = r.read()
             s.write(t)
 
-        print(f"File placed in: {os.path.abspath(q)}")
-        print(f"File name: {os.path.basename(q)}")
-
         if not run_as_admin(q):
             print("To continue building, you have to give administrator rights to the builder.")
             os.system("pause")
